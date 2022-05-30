@@ -1,0 +1,2 @@
+# Hector_xd
+Termux
